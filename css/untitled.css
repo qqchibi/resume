@@ -1,0 +1,32 @@
+.mybg {
+background-color: #FEFCF0;
+}
+
+.mypf {
+  border: 5px solid #FBBDD2; }
+
+.myfont{
+  font-family: 'Kodchasan', sans-serif;}
+
+.myfont-q{
+  font-family: 'IBM Plex Sans Thai Looped', sans-serif;}
+
+.myfont-thai-p{
+  font-family: 'Mitr', sans-serif;}
+  
+ .box {
+  width: 100%;
+  background-color: #ddd; 
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px; 
+  padding-bottom: 10px;
+  color: white; 
+}
+
+.html {width: 90%; background-color: #9DA2EF;}
+.css {width: 80%; background-color: #AEDFFF;}
+.js {width: 70%; background-color: #FF9DC5;}
+.php {width: 70%; background-color: #AFE6CB;}
