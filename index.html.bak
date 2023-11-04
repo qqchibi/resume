@@ -9,7 +9,7 @@
       rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
 
       crossorigin="anonymous">
-    <link type="text/css" rel="stylesheet" href="untitled.css">
+    <link type="text/css" rel="stylesheet" href="css/untitled.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped&amp;family=Kodchasan&amp;family=Mitr&amp;display=swap"
@@ -17,6 +17,7 @@
       rel="stylesheet">
     <meta name="description" content="resume of Weerapat Promin">
     <meta name="keywords" content="Weerapat">
+    <link type="text/css" rel="stylesheet" href="css/untitled.css">
   </head>
   <body class="mybg">
     <div class="container">
@@ -24,26 +25,26 @@
         <div class="col-sm-3 col-2 fixed-top d-none d-md-block ">
           <div style="text-align: center;">&nbsp;&nbsp; <a href="#head"> <img
 
-                src="sticker/head.png" alt="" style="width: 195px; height: 72px;">
+                src="Sticker/Head.png" alt="" style="width: 195px; height: 72px;">
             </a></div>
           <div class="text-center"> <img alt="Weerapat" src="image/breading-cats-q013.jpg"
 
               class="rounded-circle mypf"> </div>
           <h5 class="myfont text-center"> วีรภัทร พรหมอินทร์ </h5>
           <br>
-          <div style="text-align: center;"><img src="sticker/%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%2019_20191205150852.png"><a
+          <div style="text-align: center;"><img src="Sticker/%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%2019_20191205150852.png"><a
 
-              href="#about"><img src="sticker/about.png"></a><br>
+              href="#about"><img src="Sticker/About.png"></a><br>
           </div>
-          <div style="text-align: center;"><img src="sticker/%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%206_20191205142223.png"><a
+          <div style="text-align: center;"><img src="Sticker/%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%206_20191205142223.png"><a
 
-              href="#skill"><img src="sticker/skills.png"> </a></div>
-          <div style="text-align: center;"><img src="sticker/%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%2045_20191205164412.png"
+              href="#skill"><img src="Sticker/Skills.png"> </a></div>
+          <div style="text-align: center;"><img src="Sticker/%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%2045_20191205164412.png"
 
-              alt=""><a href="#edu"><img src="sticker/edu.png" alt="">&nbsp; </a></div>
-          <div style="text-align: center;"><img src="sticker/%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%2034_20191205160604.png"
+              alt=""><a href="#edu"><img src="Sticker/Edu.png" alt="">&nbsp; </a></div>
+          <div style="text-align: center;"><img src="Sticker/%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%2034_20191205160604.png"
 
-              alt=""><a href="#work"><img src="sticker/works.png" alt=""> </a></div>
+              alt=""><a href="#work"><img src="Sticker/Works.png" alt=""> </a></div>
           <br>
           <br>
           <br>
@@ -53,23 +54,23 @@
           <br>
           <div style="text-align: center;"><a href="https://www.facebook.com/profile.php?id=100014517161815&amp;locale=th_TH"
 
-              title="Facebook" target="_blank"><img src="sticker/face%20%281%29.png"
+              title="Facebook" target="_blank"><img src="Sticker/face%20%281%29.png"
 
                 alt=""></a>&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/JYPETWICE?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
 
-              title="X" target="_blank"><img src="sticker/x.png" alt=""></a>&nbsp;&nbsp;<a
+              title="X" target="_blank"><img src="Sticker/x.png" alt=""></a>&nbsp;&nbsp;<a
 
               href="mailto:promin_w@silpakorn.edu" title="mail" target="_blank"><img
 
-                src="sticker/mail.png" alt=""></a><span style="color: #0d6efd;">
+                src="Sticker/mail.png" alt=""></a><span style="color: #0d6efd;">
               &nbsp;&nbsp;<a href="https://instagram.com/qqchibies?igshid=NTc4MTIwNjQ2YQ=="
 
-                title="Instargram" target="_blank"><img src="sticker/ig.png"></a></span></div>
+                title="Instargram" target="_blank"><img src="Sticker/IG.png"></a></span></div>
         </div>
         <div class="row d-none d-sm-block d-md-none">
           <div style="text-align: center;">&nbsp;&nbsp; <a href="#head"> <img
 
-                src="sticker/head.png" alt="" style="width: 195px; height: 72px;">
+                src="Sticker/Head.png" alt="" style="width: 195px; height: 72px;">
             </a></div>
         </div>
         <div class="col-sm-9 offset-sm-2 two myfont"> <a id="head"><img src="image/banner.png"
@@ -139,7 +140,7 @@
           <div class="row">
             <div id="carouselExample" class="carousel slide">
               <div class="carousel-inner">
-                <div class="carousel-item active"> <img src="image/yes.png" class="d-block w-100 img-fluid"
+                <div class="carousel-item active"> <img src="image/Yes.png" class="d-block w-100 img-fluid"
 
                     alt="..." style="width: 918px; height: 538px;"> </div>
                 <div class="carousel-item"> <img src="image/pudding.png" class="d-block w-100 img-fluid"
@@ -165,18 +166,18 @@
           <div class="row d-md-none">
             <div style="text-align: center;"><a href="https://www.facebook.com/profile.php?id=100014517161815&amp;locale=th_TH"
 
-                title="Facebook" target="_blank"><img src="sticker/face%20%281%29.png"
+                title="Facebook" target="_blank"><img src="Sticker/face%20%281%29.png"
 
                   alt=""></a>&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/JYPETWICE?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
 
-                title="X" target="_blank"><img src="sticker/x.png" alt=""></a>&nbsp;&nbsp;<a
+                title="X" target="_blank"><img src="Sticker/x.png" alt=""></a>&nbsp;&nbsp;<a
 
                 href="mailto:promin_w@silpakorn.edu" title="mail" target="_blank"><img
 
-                  src="sticker/mail.png" alt=""></a><span style="color: #0d6efd;">
+                  src="Sticker/mail.png" alt=""></a><span style="color: #0d6efd;">
                 &nbsp;&nbsp;<a href="https://instagram.com/qqchibies?igshid=NTc4MTIwNjQ2YQ=="
 
-                  title="Instargram" target="_blank"><img src="sticker/ig.png"></a></span></div>
+                  title="Instargram" target="_blank"><img src="Sticker/IG.png"></a></span></div>
           </div>
         </div>
       </div>
@@ -186,6 +187,5 @@
 integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
 
 crossorigin="anonymous"></script>
-    
   </body>
 </html>
